@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:KompCheck_Krc_Jaroslav_WPF"
         xmlns:todo ="clr-namespace:KompCheck_Krc_Jaroslav_WPF.ToDo"
         mc:Ignorable="d"
-        Title="Book Reader" Height="450" Width="800" Background="#FFCCA9A9">
+        Title="Book Reader" Height="450" Width="800" Background="#FFCCA9A9" ResizeMode="NoResize">
     <Window.Resources>
 
         <!-- Define button style -->
